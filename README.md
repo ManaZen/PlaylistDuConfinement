@@ -7,9 +7,10 @@ Pour contribuer, cliquer sur README.md et utiliser le stylo pour modifier. Faite
 * [King Crimson](https://www.youtube.com/watch?v=8xhMEtgd2pY)
  
 ## Séries 
-* Brooklyn 99
+* [Brooklyn 99](https://www.youtube.com/watch?v=sEOuJ4z5aTc)
 
 ## Films
+* [OSS 117](https://www.youtube.com/watch?v=KSnoKZuKUgU)
 
 
 ## Livres
