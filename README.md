@@ -6,12 +6,11 @@ Pour contribuer, cliquer sur README.md et utiliser le stylo pour modifier. Faite
 ## Musiques
 * [King Crimson](https://www.youtube.com/watch?v=8xhMEtgd2pY)
  
-## Série : 
+## Série 
 * Brooklyn 99
 
 ## Films
 
-## Série
 
 ## Livres
 * Les dieux eux même - Isaac  Asimov
