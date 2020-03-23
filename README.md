@@ -8,6 +8,7 @@ Pour contribuer, cliquer sur README.md et utiliser le stylo pour modifier. Faite
  
 ## Séries 
 * [Brooklyn 99](https://www.youtube.com/watch?v=sEOuJ4z5aTc)
+* [Selfmade](https://www.youtube.com/watch?v=DvaH8WL-3kw)
 
 ## Films
 * [OSS 117](https://www.youtube.com/watch?v=KSnoKZuKUgU)
