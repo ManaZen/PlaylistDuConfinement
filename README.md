@@ -11,7 +11,8 @@ Pour contribuer, cliquer sur README.md et utiliser le stylo pour modifier. Faite
 * Carpenter Brut
 * Slayer - Undisputed Attitude
 * All I Ever Need Caribou
-* King Crimson, le dernier album de TOOL et propelleheads
+* King Crimson, le dernier album de TOOL et propellehead
+* Somethin'here de terrence Parker 
  
  
 ## Séries 
@@ -42,6 +43,7 @@ Pour contribuer, cliquer sur README.md et utiliser le stylo pour modifier. Faite
 * Castlevania
 * The Last Man
 * Kingdom of Heavens
+* Venise n'est pas en Italie
 
 
 ## Livres
